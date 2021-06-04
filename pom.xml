@@ -51,7 +51,7 @@
         <aliyun-java-sdk-sts.version>3.0.0</aliyun-java-sdk-sts.version>
         <alipay-sdk-java.version>3.4.49.ALL</alipay-sdk-java.version>
 
-        <httpclient.version>4.5.3</httpclient.version>
+        <httpclient.version>4.5.13</httpclient.version>
 
         <shiro.version>1.4.0</shiro.version>
         <shiro-redis.version>3.2.1</shiro-redis.version>
